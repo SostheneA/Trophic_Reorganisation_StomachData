@@ -1,0 +1,55 @@
+currency,contrast,level,spatial_unit,Stability,Substitution,Functional change,Reorganization,n_units,mode,n_classifiable
+biomass,P1a,ecoregion,Central,75.70588235294117,2.7647058823529416,15.882352941176473,5.647058823529413,18,biomass,17
+biomass,P1a,ecoregion,Chaleur Bay,62.41666666666666,8.333333333333334,21,8.25,12,biomass,12
+biomass,P1a,ecoregion,Magdalen Shallows,48.66666666666667,25.958333333333332,20.708333333333336,4.666666666666667,49,biomass,48
+biomass,P1a,ecoregion,Northumberland,76.78571428571429,0,23.214285714285715,0,16,biomass,14
+biomass,P1a,stratum,403,80.4,0,19.6,0,10,biomass,5
+biomass,P1a,stratum,415,75,0,18.375,6.625,9,biomass,8
+biomass,P1a,stratum,416,59.55555555555556,7.111111111111111,31.555555555555554,1.7777777777777777,10,biomass,9
+biomass,P1a,stratum,417,100,0,0,0,5,biomass,3
+biomass,P1a,stratum,418,66.66666666666667,0,33.333333333333336,0,5,biomass,3
+biomass,P1a,stratum,419,100,0,0,0,6,biomass,3
+biomass,P1a,stratum,420,73.8,0,26.200000000000003,0,7,biomass,5
+biomass,P1a,stratum,421,100,0,0,0,5,biomass,2
+biomass,P1a,stratum,422,65.14285714285714,6.2857142857142865,11.714285714285715,16.857142857142858,16,biomass,14
+biomass,P1a,stratum,423,66.66666666666667,13.333333333333334,10.933333333333334,9.066666666666666,15,biomass,15
+biomass,P1a,stratum,424,55.16666666666667,11.5,33.333333333333336,0,8,biomass,6
+biomass,P1a,stratum,425,100,0,0,0,6,biomass,4
+biomass,P1a,stratum,426,100,0,0,0,3,biomass,1
+biomass,P1a,stratum,427,100,0,0,0,6,biomass,4
+biomass,P1a,stratum,429,87.2,11.866666666666667,0.5333333333333333,0.4,18,biomass,15
+biomass,P1a,stratum,431,69.11111111111111,10.555555555555555,16.11111111111111,4.222222222222222,11,biomass,9
+biomass,P1a,stratum,432,100,0,0,0,6,biomass,2
+biomass,P1a,stratum,433,76.92307692307692,0,15.923076923076923,7.153846153846153,15,biomass,13
+biomass,P1a,stratum,434,53.7,1.5,34.6,10.2,11,biomass,10
+biomass,P1a,stratum,435,61.75,22.75,15.5,0,4,biomass,4
+biomass,P1a,stratum,436,85.71428571428572,14.285714285714286,0,0,8,biomass,7
+biomass,P1a,stratum,437,82.75,5,12.25,0,8,biomass,4
+biomass,P1a,stratum,439,50,0,50,0,3,biomass,3
+occurrence,P1a,ecoregion,Central,86.94117647058823,3.4117647058823533,3.7647058823529416,5.882352941176471,18,occurrence,17
+occurrence,P1a,ecoregion,Chaleur Bay,66.66666666666667,8.333333333333334,16.666666666666668,8.333333333333334,12,occurrence,12
+occurrence,P1a,ecoregion,Magdalen Shallows,49.64583333333333,22.5,7.791666666666667,20.0625,49,occurrence,48
+occurrence,P1a,ecoregion,Northumberland,79.5,13.357142857142858,7.142857142857143,0,16,occurrence,14
+occurrence,P1a,stratum,403,92.4,0,7.6,0,10,occurrence,5
+occurrence,P1a,stratum,415,87.5,0,8,4.5,9,occurrence,8
+occurrence,P1a,stratum,416,77,11.333333333333332,7.111111111111111,4.555555555555555,10,occurrence,9
+occurrence,P1a,stratum,417,100,0,0,0,5,occurrence,3
+occurrence,P1a,stratum,418,99.66666666666669,0.33333333333333337,0,0,5,occurrence,3
+occurrence,P1a,stratum,419,100,0,0,0,6,occurrence,3
+occurrence,P1a,stratum,420,91.4,0,8.6,0,7,occurrence,5
+occurrence,P1a,stratum,421,50,0,50,0,5,occurrence,2
+occurrence,P1a,stratum,422,61.142857142857146,14.285714285714286,14.785714285714288,9.785714285714286,16,occurrence,14
+occurrence,P1a,stratum,423,48.599999999999994,38.06666666666667,7.266666666666667,6.066666666666667,15,occurrence,15
+occurrence,P1a,stratum,424,33.833333333333336,16.166666666666668,44,6,8,occurrence,6
+occurrence,P1a,stratum,425,75,16,0,9,6,occurrence,4
+occurrence,P1a,stratum,426,100,0,0,0,3,occurrence,1
+occurrence,P1a,stratum,427,71.25,0,28.75,0,6,occurrence,4
+occurrence,P1a,stratum,429,68.4,12.733333333333334,12.733333333333333,6.133333333333334,18,occurrence,15
+occurrence,P1a,stratum,431,77.77777777777777,11.11111111111111,0,11.11111111111111,11,occurrence,9
+occurrence,P1a,stratum,432,100,0,0,0,6,occurrence,2
+occurrence,P1a,stratum,433,77.46153846153847,3.307692307692308,19.230769230769234,0,15,occurrence,13
+occurrence,P1a,stratum,434,54.3,12.7,22.5,10.5,11,occurrence,10
+occurrence,P1a,stratum,435,53,22.75,24.25,0,4,occurrence,4
+occurrence,P1a,stratum,436,71.14285714285714,14.571428571428571,14.285714285714286,0,8,occurrence,7
+occurrence,P1a,stratum,437,100,0,0,0,8,occurrence,4
+occurrence,P1a,stratum,439,100,0,0,0,3,occurrence,3

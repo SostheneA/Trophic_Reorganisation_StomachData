@@ -1,0 +1,121 @@
+currency,contrast,family,pct_mean,pct_sd,n_thresholds,Rule,x,Currency
+biomass,P1a,Stability,54.111111111111114,2.43494850905136,100,Pooled (primary),1,Biomass
+biomass,P1a,Substitution,21.72222222222222,2.119704747701446,100,Pooled (primary),1,Biomass
+biomass,P1a,Functional change,15.62962962962963,1.350350728861507,100,Pooled (primary),1,Biomass
+biomass,P1a,Reorganization,8.537037037037036,1.3650212584874062,100,Pooled (primary),1,Biomass
+biomass,P1b,Stability,48.27272727272727,1.642067398438152,100,Pooled (primary),2,Biomass
+biomass,P1b,Substitution,24.18181818181818,2.0593092662292847,100,Pooled (primary),2,Biomass
+biomass,P1b,Functional change,20.254545454545454,1.0970138340967632,100,Pooled (primary),2,Biomass
+biomass,P1b,Reorganization,7.290909090909091,1.2256817221913145,100,Pooled (primary),2,Biomass
+biomass,P2,Stability,64.17647058823529,3.9398957764435596,100,Pooled (primary),3,Biomass
+biomass,P2,Substitution,14.686274509803921,1.7514521770474873,100,Pooled (primary),3,Biomass
+biomass,P2,Functional change,17.529411764705884,2.191248969181727,100,Pooled (primary),3,Biomass
+biomass,P2,Reorganization,3.607843137254902,3.0493731959315156,100,Pooled (primary),3,Biomass
+biomass,PTb,Stability,15.192307692307692,1.9615422703621017,100,Pooled (primary),4,Biomass
+biomass,PTb,Substitution,47.38461538461539,3.85120103956338,100,Pooled (primary),4,Biomass
+biomass,PTb,Functional change,4.903846153846154,1.2337946013834573,100,Pooled (primary),4,Biomass
+biomass,PTb,Reorganization,32.51923076923077,5.60231872852439,100,Pooled (primary),4,Biomass
+biomass,PTa,Stability,10.677966101694915,2.1479736688573685,100,Pooled (primary),5,Biomass
+biomass,PTa,Substitution,55.067796610169495,4.723791682995467,100,Pooled (primary),5,Biomass
+biomass,PTa,Functional change,4.084745762711864,0.9044361841004818,100,Pooled (primary),5,Biomass
+biomass,PTa,Reorganization,30.16949152542373,5.504028073803314,100,Pooled (primary),5,Biomass
+occurrence,P1a,Stability,51.48148148148148,4.15339575083352,100,Pooled (primary),1,Occurrence
+occurrence,P1a,Substitution,28.5,5.873169343386367,100,Pooled (primary),1,Occurrence
+occurrence,P1a,Functional change,2.259259259259259,2.0145512690468967,100,Pooled (primary),1,Occurrence
+occurrence,P1a,Reorganization,17.75925925925926,1.6666666666666665,100,Pooled (primary),1,Occurrence
+occurrence,P1b,Stability,52.945454545454545,3.440840826230081,100,Pooled (primary),2,Occurrence
+occurrence,P1b,Substitution,26.727272727272727,2.7042184444755986,100,Pooled (primary),2,Occurrence
+occurrence,P1b,Functional change,5.181818181818182,1.3271834127213118,100,Pooled (primary),2,Occurrence
+occurrence,P1b,Reorganization,15.145454545454545,0.9688357056761678,100,Pooled (primary),2,Occurrence
+occurrence,P2,Stability,63.35294117647059,1.9447752081651077,100,Pooled (primary),3,Occurrence
+occurrence,P2,Substitution,10.882352941176471,2.8335767846991544,100,Pooled (primary),3,Occurrence
+occurrence,P2,Functional change,15.607843137254902,2.1026145730190335,100,Pooled (primary),3,Occurrence
+occurrence,P2,Reorganization,10.15686274509804,2.0551656193915426,100,Pooled (primary),3,Occurrence
+occurrence,PTb,Stability,10.115384615384615,1.1473528768913825,100,Pooled (primary),4,Occurrence
+occurrence,PTb,Substitution,58.09615384615385,5.845104545345307,100,Pooled (primary),4,Occurrence
+occurrence,PTb,Functional change,2.269230769230769,1.6258219072414128,100,Pooled (primary),4,Occurrence
+occurrence,PTb,Reorganization,29.51923076923077,5.650652677335219,100,Pooled (primary),4,Occurrence
+occurrence,PTa,Stability,7.389830508474576,2.0230263555613384,100,Pooled (primary),5,Occurrence
+occurrence,PTa,Substitution,50.59322033898305,4.25778299826857,100,Pooled (primary),5,Occurrence
+occurrence,PTa,Functional change,2.6101694915254234,1.3286940608511617,100,Pooled (primary),5,Occurrence
+occurrence,PTa,Reorganization,39.40677966101695,4.868273429269516,100,Pooled (primary),5,Occurrence
+biomass,P1a,Stability,54.81481481481482,2.1704915382506966,100,Pooled cross-predator,1,Biomass
+biomass,P1a,Substitution,21.166666666666668,2.0089551629144022,100,Pooled cross-predator,1,Biomass
+biomass,P1a,Functional change,15.555555555555557,1.3927804316488057,100,Pooled cross-predator,1,Biomass
+biomass,P1a,Reorganization,8.462962962962964,1.3486822817599398,100,Pooled cross-predator,1,Biomass
+biomass,P1b,Stability,48.127272727272725,1.7802282968898964,100,Pooled cross-predator,2,Biomass
+biomass,P1b,Substitution,23.654545454545453,2.1543263363371885,100,Pooled cross-predator,2,Biomass
+biomass,P1b,Functional change,21.018181818181816,1.4229816821913317,100,Pooled cross-predator,2,Biomass
+biomass,P1b,Reorganization,7.2,1.2900564962122079,100,Pooled cross-predator,2,Biomass
+biomass,P2,Stability,63.90196078431372,3.9323974079159387,100,Pooled cross-predator,3,Biomass
+biomass,P2,Substitution,14.92156862745098,1.9685920998894144,100,Pooled cross-predator,3,Biomass
+biomass,P2,Functional change,17.568627450980394,2.2106581078807537,100,Pooled cross-predator,3,Biomass
+biomass,P2,Reorganization,3.607843137254902,3.0493731959315156,100,Pooled cross-predator,3,Biomass
+biomass,PTb,Stability,14.711538461538462,2.404331730288607,100,Pooled cross-predator,4,Biomass
+biomass,PTb,Substitution,47.48076923076923,3.843190389021367,100,Pooled cross-predator,4,Biomass
+biomass,PTb,Functional change,5.403846153846154,0.9347471936625475,100,Pooled cross-predator,4,Biomass
+biomass,PTb,Reorganization,32.40384615384615,5.537127256613496,100,Pooled cross-predator,4,Biomass
+biomass,PTa,Stability,10.711864406779661,2.1259760138109356,100,Pooled cross-predator,5,Biomass
+biomass,PTa,Substitution,54.91525423728814,5.332654279370276,100,Pooled cross-predator,5,Biomass
+biomass,PTa,Functional change,3.6101694915254234,0.6665273678605039,100,Pooled cross-predator,5,Biomass
+biomass,PTa,Reorganization,30.76271186440678,6.52391718590885,100,Pooled cross-predator,5,Biomass
+occurrence,P1a,Stability,53.24074074074074,3.039770926480279,100,Pooled cross-predator,1,Occurrence
+occurrence,P1a,Substitution,27,4.628170364856265,100,Pooled cross-predator,1,Occurrence
+occurrence,P1a,Functional change,1.8703703703703705,2.1301378726311113,100,Pooled cross-predator,1,Occurrence
+occurrence,P1a,Reorganization,17.88888888888889,1.517062435486976,100,Pooled cross-predator,1,Occurrence
+occurrence,P1b,Stability,53.45454545454545,2.9578105854478345,100,Pooled cross-predator,2,Occurrence
+occurrence,P1b,Substitution,26.454545454545453,2.359677407804702,100,Pooled cross-predator,2,Occurrence
+occurrence,P1b,Functional change,5.3999999999999995,1.2245915002969558,100,Pooled cross-predator,2,Occurrence
+occurrence,P1b,Reorganization,14.690909090909091,0.7613679193443396,100,Pooled cross-predator,2,Occurrence
+occurrence,P2,Stability,63.431372549019606,2.201063154128517,100,Pooled cross-predator,3,Occurrence
+occurrence,P2,Substitution,10.529411764705882,2.6970730443600552,100,Pooled cross-predator,3,Occurrence
+occurrence,P2,Functional change,15.725490196078432,2.1403244296212782,100,Pooled cross-predator,3,Occurrence
+occurrence,P2,Reorganization,10.313725490196079,1.8194241170452519,100,Pooled cross-predator,3,Occurrence
+occurrence,PTb,Stability,10.365384615384615,1.0188806922505413,100,Pooled cross-predator,4,Occurrence
+occurrence,PTb,Substitution,58.11538461538461,5.859689683090481,100,Pooled cross-predator,4,Occurrence
+occurrence,PTb,Functional change,2.0384615384615383,1.5658975523139553,100,Pooled cross-predator,4,Occurrence
+occurrence,PTb,Reorganization,29.48076923076923,5.661748068397832,100,Pooled cross-predator,4,Occurrence
+occurrence,PTa,Stability,7.389830508474576,2.0230263555613384,100,Pooled cross-predator,5,Occurrence
+occurrence,PTa,Substitution,48.94915254237288,6.25090999674958,100,Pooled cross-predator,5,Occurrence
+occurrence,PTa,Functional change,2.6101694915254234,1.3286940608511617,100,Pooled cross-predator,5,Occurrence
+occurrence,PTa,Reorganization,41.05084745762712,6.790694668203175,100,Pooled cross-predator,5,Occurrence
+biomass,P1a,Stability,61.73649604979873,4.686962678202224,50,Per-predator,1,Biomass
+biomass,P1a,Substitution,18.039421574144896,3.5490515100772306,50,Per-predator,1,Biomass
+biomass,P1a,Functional change,12.226707228609877,1.901448827036703,50,Per-predator,1,Biomass
+biomass,P1a,Reorganization,7.997375147446497,2.426079362308369,50,Per-predator,1,Biomass
+biomass,P1b,Stability,59.421652421652425,6.020718516133822,50,Per-predator,2,Biomass
+biomass,P1b,Substitution,16.20797720797721,5.457527933413855,50,Per-predator,2,Biomass
+biomass,P1b,Functional change,15.955840455840455,2.0584973536128173,50,Per-predator,2,Biomass
+biomass,P1b,Reorganization,8.414529914529915,2.62669065191605,50,Per-predator,2,Biomass
+biomass,P2,Stability,75.78026605899277,6.513273088843156,50,Per-predator,3,Biomass
+biomass,P2,Substitution,7.105119518162996,2.932773068601748,50,Per-predator,3,Biomass
+biomass,P2,Functional change,12.014149928746201,3.109741250103261,50,Per-predator,3,Biomass
+biomass,P2,Reorganization,5.100464494098034,1.7303608776695463,50,Per-predator,3,Biomass
+biomass,PTb,Stability,30.919095553114865,10.661522937644769,50,Per-predator,4,Biomass
+biomass,PTb,Substitution,35.83487177849864,8.090593286272544,50,Per-predator,4,Biomass
+biomass,PTb,Functional change,5.732783709228372,1.9902606014738127,50,Per-predator,4,Biomass
+biomass,PTb,Reorganization,27.513248959158133,4.351972159328932,50,Per-predator,4,Biomass
+biomass,PTa,Stability,31.28047391205286,13.546771423875242,50,Per-predator,5,Biomass
+biomass,PTa,Substitution,39.1074390521759,9.697011077108806,50,Per-predator,5,Biomass
+biomass,PTa,Functional change,2.698382319434951,1.6180614473439545,50,Per-predator,5,Biomass
+biomass,PTa,Reorganization,26.913704716336294,5.000339025361005,50,Per-predator,5,Biomass
+occurrence,P1a,Stability,53.45139565260066,3.576616272000969,50,Per-predator,1,Occurrence
+occurrence,P1a,Substitution,18.75889426888317,5.885104025364518,50,Per-predator,1,Occurrence
+occurrence,P1a,Functional change,12.381774770866256,5.630264303336045,50,Per-predator,1,Occurrence
+occurrence,P1a,Reorganization,15.407935307649911,3.1013508705218222,50,Per-predator,1,Occurrence
+occurrence,P1b,Stability,53.46866096866097,4.5022609181109186,50,Per-predator,2,Occurrence
+occurrence,P1b,Substitution,21.525641025641026,5.062255003759522,50,Per-predator,2,Occurrence
+occurrence,P1b,Functional change,13.515669515669517,3.3067862608898415,50,Per-predator,2,Occurrence
+occurrence,P1b,Reorganization,11.49002849002849,2.430121348394691,50,Per-predator,2,Occurrence
+occurrence,P2,Stability,71.97043303487403,3.7729109704729105,50,Per-predator,3,Occurrence
+occurrence,P2,Substitution,3.883399209486166,3.115345376517495,50,Per-predator,3,Occurrence
+occurrence,P2,Functional change,13.090203274985884,1.9889524362574893,50,Per-predator,3,Occurrence
+occurrence,P2,Reorganization,11.055964480653921,2.3623907498148986,50,Per-predator,3,Occurrence
+occurrence,PTb,Stability,25.40463032021319,13.120277753514667,50,Per-predator,4,Occurrence
+occurrence,PTb,Substitution,47.70144270474147,8.209749945598878,50,Per-predator,4,Occurrence
+occurrence,PTb,Functional change,3.9020110171728266,1.8193700303914708,50,Per-predator,4,Occurrence
+occurrence,PTb,Reorganization,22.99191595787251,6.960942245077926,50,Per-predator,4,Occurrence
+occurrence,PTa,Stability,20.992002734108,8.71568681416361,50,Per-predator,5,Occurrence
+occurrence,PTa,Substitution,38.3835725677831,9.304040632599708,50,Per-predator,5,Occurrence
+occurrence,PTa,Functional change,7.478001822738665,3.889311399073184,50,Per-predator,5,Occurrence
+occurrence,PTa,Reorganization,33.14642287537024,4.158670149795826,50,Per-predator,5,Occurrence

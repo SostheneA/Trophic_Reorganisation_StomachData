@@ -1,0 +1,7 @@
+Currency,Rule,Stability within,Substitution within,Stability between,Substitution between,Leading family
+Biomass,Per-predator,66.4-70.2,6.8-7.9,43.7,30.7,Stability
+Biomass,Pooled (primary),65.9-69.5,8.0-9.6,24.6,41.7,Substitution
+Biomass,Pooled cross-predator,66.9-70.3,7.8-9.7,25.1,40.9,Substitution
+Occurrence,Per-predator,76.5-80.9,5.7-10.1,34.0,42.6,Substitution
+Occurrence,Pooled (primary),69.8-78.0,9.4-13.3,16.9,53.9,Substitution
+Occurrence,Pooled cross-predator,70.5-80.2,8.6-12.5,17.0,53.2,Substitution

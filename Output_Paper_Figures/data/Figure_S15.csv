@@ -1,0 +1,97 @@
+contrast,contrast_type,mode,family,pct_mean,sd_across_x,alpha,trend,level,Scale,Currency
+PTa,between,biomass,Functional change,4.9491525423728815,0.46213546499032326,0.01,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Reorganization,17.423728813559322,6.5226049315050085,0.01,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Stability,18.93220338983051,2.6939896269675327,0.01,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Substitution,58.69491525423729,4.400420787152932,0.01,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,occurrence,Functional change,3.0677966101694913,0.7103627536405188,0.01,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Reorganization,29.271186440677965,4.614159577264189,0.01,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Stability,12.71186440677966,2.0932392267400957,0.01,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Substitution,54.94915254237288,3.9229770913589306,0.01,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,biomass,Functional change,4.847457627118644,0.5910764203725033,0.025,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Reorganization,23.016949152542377,5.832582455829591,0.025,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Stability,16.10169491525424,4.359644140300156,0.025,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Substitution,56.03389830508475,2.558812340756557,0.025,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,occurrence,Functional change,2.3220338983050848,0.822434893379508,0.025,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Reorganization,33.88135593220339,5.141468695834086,0.025,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Stability,9.576271186440678,1.9026139128907509,0.025,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Substitution,54.22033898305085,4.542156955314741,0.025,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,biomass,Functional change,4.084745762711864,0.9044361841004818,0.05,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Reorganization,30.16949152542373,5.504028073803314,0.05,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Stability,10.677966101694915,2.1479736688573685,0.05,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Substitution,55.067796610169495,4.723791682995467,0.05,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,occurrence,Functional change,2.610169491525423,1.3286940608511617,0.05,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Reorganization,39.40677966101695,4.868273429269516,0.05,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Stability,7.389830508474576,2.0230263555613384,0.05,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Substitution,50.59322033898305,4.25778299826857,0.05,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,biomass,Functional change,2.440677966101694,0.9429198350169836,0.075,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Reorganization,34.813559322033896,3.743105015115761,0.075,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Stability,8.542372881355933,2.014401790118998,0.075,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,biomass,Substitution,54.20338983050847,2.9006774357047314,0.075,0.1,all_gulf,sGSL-wide,Biomass
+PTa,between,occurrence,Functional change,3.3389830508474576,1.4545342102003145,0.075,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Reorganization,44.22033898305085,6.023076807750751,0.075,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Stability,4.406779661016949,1.7371889599679262,0.075,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,occurrence,Substitution,48.03389830508475,5.950981602955533,0.075,0.1,all_gulf,sGSL-wide,Occurrence
+PTa,between,biomass,Functional change,9.00695797864149,0.8429810774817023,0.01,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Reorganization,6.6166686138209005,2.887524920259185,0.01,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Stability,43.727611266588426,2.376850557026273,0.01,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Substitution,40.64876214094919,2.2578237774287886,0.01,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,occurrence,Functional change,2.62214498510427,0.7899957400730236,0.01,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Reorganization,15.655105438401776,1.5310932059150528,0.01,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Stability,29.18743129643299,1.9924024126176332,0.01,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Substitution,52.53531828006096,1.995721806464991,0.01,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,biomass,Functional change,7.323197510474805,1.4966709682258534,0.025,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Reorganization,14.557446802861255,4.186914718157445,0.025,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Stability,34.17922271373116,3.4070019774366185,0.025,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Substitution,43.94013297293279,2.6917639840260676,0.025,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,occurrence,Functional change,3.3584679967500226,0.8580244319879108,0.025,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Reorganization,19.28943385605574,1.7605654953573993,0.025,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Stability,22.525164755800308,2.901885436745075,0.025,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Substitution,54.826933391393936,1.6650641159732804,0.025,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,biomass,Functional change,9.56488139175504,3.058607676623818,0.05,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Reorganization,24.09572298721782,4.082941155596201,0.05,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Stability,24.627596131889607,2.383870574663497,0.05,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Substitution,41.71179948913753,1.9134917027225429,0.05,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,occurrence,Functional change,5.010900965965514,1.5549866120879028,0.05,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Reorganization,24.1079396098965,1.6836245977849265,0.05,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Stability,16.946651514266446,2.855119793849839,0.05,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Substitution,53.93450790987154,2.5890489639665963,0.05,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,biomass,Functional change,8.5355997323548,2.672228914989299,0.075,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Reorganization,28.80482743788135,4.4450445075451475,0.075,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Stability,20.48656861860028,1.7792198260978356,0.075,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,biomass,Substitution,42.173004211163565,1.5902368980829595,0.075,0.1,ecoregion,Ecoregion,Biomass
+PTa,between,occurrence,Functional change,4.953981222352622,2.185963706022166,0.075,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Reorganization,26.233487247024836,2.078902581651257,0.075,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Stability,14.48942031448311,1.9496805503236416,0.075,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,occurrence,Substitution,54.32311121613943,1.9432896340041188,0.075,0.1,ecoregion,Ecoregion,Occurrence
+PTa,between,biomass,Functional change,4.390923709551161,0.4226270491053337,0.01,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Reorganization,3.6463408595761537,1.209790619163195,0.01,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Stability,65.29358370085494,1.4113065068955264,0.01,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Substitution,26.669151730017745,1.770784118900075,0.01,0.1,stratum,Stratum,Biomass
+PTa,between,occurrence,Functional change,1.339876596412544,0.46565194596686144,0.01,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Reorganization,3.4524866624539827,0.6982330282920515,0.01,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Stability,53.49815553001827,2.081173745341416,0.01,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Substitution,41.7094812111152,1.6368278733663295,0.01,0.1,stratum,Stratum,Occurrence
+PTa,between,biomass,Functional change,5.37762630736487,0.7834423936453063,0.025,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Reorganization,7.017600122583783,1.8340869073224584,0.025,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Stability,49.24159642705394,1.50014233594443,0.025,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Substitution,38.36317714299741,2.522753394155769,0.025,0.1,stratum,Stratum,Biomass
+PTa,between,occurrence,Functional change,2.48902211320512,0.4450379291119267,0.025,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Reorganization,6.620462326344679,1.7601418180500952,0.025,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Stability,36.63272214048358,3.1163968295749327,0.025,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Substitution,54.257793419966625,2.578879118267382,0.025,0.1,stratum,Stratum,Occurrence
+PTa,between,biomass,Functional change,7.209227289292649,1.4920943048250228,0.05,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Reorganization,14.291218872509722,1.540048170606354,0.05,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Stability,37.44231648888512,1.5005977691480343,0.05,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Substitution,41.05723734931251,2.6563439998961793,0.05,0.1,stratum,Stratum,Biomass
+PTa,between,occurrence,Functional change,4.7981191526943165,0.50076710937721,0.05,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Reorganization,11.207454008107604,3.018856080526602,0.05,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Stability,24.813907029184808,2.7565210827510147,0.05,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Substitution,59.18051981001327,2.0843912056757556,0.05,0.1,stratum,Stratum,Occurrence
+PTa,between,biomass,Functional change,8.878051565960064,1.2903114929891315,0.075,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Reorganization,18.59771576765041,1.2999322279190002,0.075,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Stability,29.29652003467363,1.277608570942668,0.075,0.1,stratum,Stratum,Biomass
+PTa,between,biomass,Substitution,43.2277126317159,3.155049608374273,0.075,0.1,stratum,Stratum,Biomass
+PTa,between,occurrence,Functional change,5.069854836521503,0.5789051370380381,0.075,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Reorganization,15.125548978980351,2.6899815346138003,0.075,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Stability,19.819193152526488,2.4112235630292105,0.075,0.1,stratum,Stratum,Occurrence
+PTa,between,occurrence,Substitution,59.98540303197166,1.2759154589101862,0.075,0.1,stratum,Stratum,Occurrence

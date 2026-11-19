@@ -1,0 +1,31 @@
+# Local R and RStudio files
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Renviron
+.Rprofile.local
+Rplots.pdf
+*.Rcheck/
+.quarto/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+
+# Restricted DFO survey data, spatial inputs and preparation objects
+# (including Database, fullness, diet_clean and dat_classed).
+/data/*
+
+# Derived statistical results needed by the downstream analyses
+!/data/Sensitivity/
+!/data/null_runs_*.rda
+
+# Local archives and backup files
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.bak
+*.old

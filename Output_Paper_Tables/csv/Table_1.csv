@@ -1,0 +1,10 @@
+Diagnostic state,C,H′,Bs,Family
+Stable Diet,ns (p ≥ 0.10),ns,ns,Stability
+Emerging Shift,trend,ns,ns,Stability
+Ghost Shift,sig,ns,ns,Substitution
+Internal Rebalancing,ns,sig,ns,Functional change
+Niche Compression/Expansion,ns,ns,sig,Functional change
+Niche Restructuring,ns,sig,sig,Functional change
+Partial Diet Shift,sig,sig,ns,Reorganization
+Structural Shift,sig,ns,sig,Reorganization
+Major Shift,sig,sig,sig,Reorganization

@@ -1,0 +1,53 @@
+currency,contrast,level,spatial_unit,Stability,Substitution,Functional change,Reorganization,n_units,mode,n_classifiable
+biomass,PTb,ecoregion,Central,21.428571428571427,40.14285714285714,20.42857142857143,18,15,biomass,14
+biomass,PTb,ecoregion,Chaleur Bay,33,29.571428571428573,22.714285714285715,14.714285714285715,8,biomass,7
+biomass,PTb,ecoregion,Magdalen Shallows,20.272727272727273,42.43181818181818,7.272727272727273,30.022727272727273,45,biomass,44
+biomass,PTb,ecoregion,Northumberland,63.45454545454545,9.272727272727272,22.63636363636364,4.636363636363637,12,biomass,11
+biomass,PTb,stratum,415,40,0,39.8,20.2,5,biomass,5
+biomass,PTb,stratum,416,48.375,21.875,14.5,15.25,9,biomass,8
+biomass,PTb,stratum,417,100,0,0,0,6,biomass,1
+biomass,PTb,stratum,418,85,0,15,0,5,biomass,1
+biomass,PTb,stratum,420,100,0,0,0,5,biomass,2
+biomass,PTb,stratum,421,100,0,0,0,4,biomass,1
+biomass,PTb,stratum,422,0,50,36.75,13.25,8,biomass,4
+biomass,PTb,stratum,423,0,50,16.666666666666668,33.333333333333336,6,biomass,6
+biomass,PTb,stratum,424,49.142857142857146,23,0,27.85714285714286,10,biomass,7
+biomass,PTb,stratum,425,41,9,50,0,4,biomass,2
+biomass,PTb,stratum,427,66.33333333333334,17.666666666666668,0.33333333333333337,15.666666666666668,5,biomass,3
+biomass,PTb,stratum,428,83,0,17,0,2,biomass,1
+biomass,PTb,stratum,429,0,71,0,29,6,biomass,5
+biomass,PTb,stratum,431,0,75,0,25,10,biomass,6
+biomass,PTb,stratum,432,100,0,0,0,5,biomass,2
+biomass,PTb,stratum,433,83.16666666666666,16.833333333333336,0,0,7,biomass,6
+biomass,PTb,stratum,434,3,16,0,81,1,biomass,1
+biomass,PTb,stratum,435,100,0,0,0,6,biomass,3
+biomass,PTb,stratum,436,29,66.66666666666667,4.333333333333334,0,4,biomass,3
+biomass,PTb,stratum,437,63,25,12,0,7,biomass,4
+biomass,PTb,stratum,438,52.333333333333336,0,47.66666666666667,0,5,biomass,3
+biomass,PTb,stratum,439,89.25,0,1.25,9.5,4,biomass,4
+occurrence,PTb,ecoregion,Central,28.428571428571427,29.78571428571429,7.142857142857143,34.642857142857146,15,occurrence,14
+occurrence,PTb,ecoregion,Chaleur Bay,25.571428571428573,53.42857142857143,0,21,8,occurrence,7
+occurrence,PTb,ecoregion,Magdalen Shallows,13.045454545454543,57.47727272727273,5.863636363636364,23.613636363636367,45,occurrence,44
+occurrence,PTb,ecoregion,Northumberland,46,54,0,0,12,occurrence,11
+occurrence,PTb,stratum,415,43.599999999999994,56.4,0,0,5,occurrence,5
+occurrence,PTb,stratum,416,35.875,57.5,0,6.625,9,occurrence,8
+occurrence,PTb,stratum,417,82,18,0,0,6,occurrence,1
+occurrence,PTb,stratum,418,100,0,0,0,5,occurrence,1
+occurrence,PTb,stratum,420,91,9,0,0,5,occurrence,2
+occurrence,PTb,stratum,421,70,0,30,0,4,occurrence,1
+occurrence,PTb,stratum,422,25,50,0,25,8,occurrence,4
+occurrence,PTb,stratum,423,16.666666666666668,42.5,0,40.833333333333336,6,occurrence,6
+occurrence,PTb,stratum,424,25.42857142857143,46,0,28.571428571428573,10,occurrence,7
+occurrence,PTb,stratum,425,50,50,0,0,4,occurrence,2
+occurrence,PTb,stratum,427,47.66666666666667,33.333333333333336,19,0,5,occurrence,3
+occurrence,PTb,stratum,428,100,0,0,0,2,occurrence,1
+occurrence,PTb,stratum,429,0,77.4,0,22.6,6,occurrence,5
+occurrence,PTb,stratum,431,0,99.16666666666669,0,0.8333333333333334,10,occurrence,6
+occurrence,PTb,stratum,432,100,0,0,0,5,occurrence,2
+occurrence,PTb,stratum,433,32.833333333333336,60,0,7.166666666666667,7,occurrence,6
+occurrence,PTb,stratum,434,0,100,0,0,1,occurrence,1
+occurrence,PTb,stratum,435,66.66666666666667,33.333333333333336,0,0,6,occurrence,3
+occurrence,PTb,stratum,436,4.666666666666667,81.33333333333334,0,14.000000000000002,4,occurrence,3
+occurrence,PTb,stratum,437,13,53,18.5,15.5,7,occurrence,4
+occurrence,PTb,stratum,438,100,0,0,0,5,occurrence,3
+occurrence,PTb,stratum,439,65.25,9.75,0,25,4,occurrence,4

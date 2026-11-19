@@ -1,0 +1,27 @@
+Scale,Contrast,Currency,Cells,Median support,Support ≥ 0.80 (%),Mean families per cell
+sGSL-wide,2004 / 2006,Biomass,54,1.00,85.2,1.33
+sGSL-wide,2004-05 / 2006,Biomass,55,1.00,90.9,1.24
+sGSL-wide,2018 / 2019,Biomass,51,0.97,74.5,1.65
+sGSL-wide,2006 / 2018,Biomass,52,1.00,67.3,1.48
+sGSL-wide,2004-06 / 2018-19,Biomass,59,1.00,69.5,1.49
+sGSL-wide,2004 / 2006,Occurrence,54,1.00,81.5,1.35
+sGSL-wide,2004-05 / 2006,Occurrence,55,1.00,87.3,1.35
+sGSL-wide,2018 / 2019,Occurrence,51,0.98,64.7,1.63
+sGSL-wide,2006 / 2018,Occurrence,52,1.00,78.8,1.52
+sGSL-wide,2004-06 / 2018-19,Occurrence,59,0.96,69.5,1.56
+Ecoregion,2004 / 2006,Biomass,91,1.00,92.3,1.24
+Ecoregion,2004-05 / 2006,Biomass,95,1.00,89.5,1.24
+Ecoregion,2018 / 2019,Biomass,62,1.00,72.6,1.56
+Ecoregion,2004-06 / 2018-19,Biomass,100,1.00,69.0,1.51
+Ecoregion,2004 / 2006,Occurrence,91,1.00,85.7,1.27
+Ecoregion,2004-05 / 2006,Occurrence,95,1.00,91.6,1.29
+Ecoregion,2018 / 2019,Occurrence,62,1.00,74.2,1.53
+Ecoregion,2004-06 / 2018-19,Occurrence,100,1.00,79.0,1.41
+Stratum,2004 / 2006,Biomass,149,1.00,89.9,1.24
+Stratum,2004-05 / 2006,Biomass,168,1.00,90.5,1.22
+Stratum,2018 / 2019,Biomass,48,1.00,81.2,1.38
+Stratum,2004-06 / 2018-19,Biomass,198,1.00,75.8,1.45
+Stratum,2004 / 2006,Occurrence,149,1.00,83.9,1.26
+Stratum,2004-05 / 2006,Occurrence,168,1.00,86.9,1.21
+Stratum,2018 / 2019,Occurrence,48,1.00,79.2,1.38
+Stratum,2004-06 / 2018-19,Occurrence,198,1.00,75.8,1.49

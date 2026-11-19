@@ -1,0 +1,61 @@
+Predator,Size class,Stomachs 2004-2006,Stomachs 2018-2019,Sets 2004-2006,Sets 2018-2019
+Alewife,adult,81,81,33,32
+Alewife,juvenile,76,47,28,19
+Alligatorfish,adult,191,133,98,59
+Alligatorfish,juvenile,64,45,48,33
+American plaice,adult,221,88,154,69
+American plaice,juvenile,737,355,262,137
+Arctic alligatorfish,one_class,157,22,63,10
+Arctic hookear sculpin,one_class,68,39,29,16
+Arctic staghorn sculpin,adult,236,63,101,35
+Atlantic cod,adult,1376,108,184,45
+Atlantic cod,juvenile,707,337,149,100
+Atlantic herring,adult,156,68,64,24
+Atlantic herring,juvenile,134,111,44,31
+Atlantic hookear sculpin,one_class,342,46,112,22
+Atlantic mackerel,adult,10,20,6,12
+Atlantic mackerel,juvenile,42,56,22,24
+Atlantic poacher,one_class,309,75,118,30
+Atlantic spiny lumpsucker,one_class,160,46,69,23
+Capelin,adult,42,9,30,9
+Capelin,juvenile,390,169,131,61
+Daubed shanny,adult,96,29,60,21
+Daubed shanny,juvenile,364,96,137,47
+Dusky snailfish,one_class,191,172,79,71
+Fourbeard rockling,juvenile,93,47,46,25
+Fourline snakeblenny,one_class,200,82,75,31
+Greenland cod,juvenile,99,10,51,7
+Greenland halibut,adult,89,19,34,15
+Greenland halibut,juvenile,116,97,56,43
+Laval's eelpout,one_class,286,56,103,27
+Longhorn sculpin,adult,182,41,88,29
+Longhorn sculpin,juvenile,236,57,88,30
+Marlin-spike grenadier,one_class,74,69,31,19
+Moustache sculpin,one_class,422,105,139,47
+Northern sand lance,one_class,18,76,9,35
+Rainbow smelt,adult,138,94,42,27
+Rainbow smelt,juvenile,14,6,5,4
+Redfish unidentified,adult,81,74,28,32
+Redfish unidentified,juvenile,48,12,33,10
+Sea raven,one_class,77,23,52,15
+Shorthorn sculpin,adult,156,45,86,28
+Shorthorn sculpin,juvenile,11,7,10,6
+Smooth skate,juvenile,158,32,54,16
+Snakeblenny,adult,138,23,57,13
+Spatulate sculpin,one_class,272,88,109,33
+Stout eelblenny,one_class,237,59,68,19
+Thorny skate,juvenile,538,131,123,44
+Three-spined stickleback,adult,60,16,27,11
+Three-spined stickleback,juvenile,39,21,22,11
+Vahl's eelpout,one_class,87,11,41,9
+White hake,adult,157,63,60,27
+White hake,juvenile,143,106,53,40
+Windowpane flounder,adult,5,13,3,7
+Windowpane flounder,juvenile,42,19,12,9
+Winter flounder,adult,150,47,69,25
+Winter flounder,juvenile,199,116,75,43
+Witch flounder,adult,173,101,66,36
+Witch flounder,juvenile,78,16,37,12
+Yellowtail flounder,adult,183,37,95,21
+Yellowtail flounder,juvenile,349,160,133,66
+Total,,"11,498","4,194",,

@@ -1,0 +1,31 @@
+mode,n_bin,n,Test,Rate,Currency
+biomass,"[3,5)",4910,Composition,4.1751527494908345,Biomass
+biomass,"[3,5)",4910,Diversity,13.238289205702646,Biomass
+biomass,"[3,5)",4910,Niche breadth,4.012219959266802,Biomass
+biomass,"[5,8)",6000,Composition,3.783333333333333,Biomass
+biomass,"[5,8)",6000,Diversity,23.4,Biomass
+biomass,"[5,8)",6000,Niche breadth,5.166666666666667,Biomass
+biomass,"[8,12)",16000,Composition,4.68125,Biomass
+biomass,"[8,12)",16000,Diversity,18.075,Biomass
+biomass,"[8,12)",16000,Niche breadth,8.24375,Biomass
+biomass,"[12,20)",18000,Composition,4.766666666666667,Biomass
+biomass,"[12,20)",18000,Diversity,11.744444444444444,Biomass
+biomass,"[12,20)",18000,Niche breadth,7.066666666666667,Biomass
+biomass,"[20,Inf)",74000,Composition,5.254054054054054,Biomass
+biomass,"[20,Inf)",74000,Diversity,9.244594594594597,Biomass
+biomass,"[20,Inf)",74000,Niche breadth,5.139189189189189,Biomass
+occurrence,"[3,5)",4910,Composition,5.295315682281059,Occurrence
+occurrence,"[3,5)",4910,Diversity,6.109979633401222,Occurrence
+occurrence,"[3,5)",4910,Niche breadth,5.112016293279022,Occurrence
+occurrence,"[5,8)",6000,Composition,4.216666666666667,Occurrence
+occurrence,"[5,8)",6000,Diversity,9.6,Occurrence
+occurrence,"[5,8)",6000,Niche breadth,6.083333333333334,Occurrence
+occurrence,"[8,12)",16000,Composition,5.106249999999999,Occurrence
+occurrence,"[8,12)",16000,Diversity,11.275,Occurrence
+occurrence,"[8,12)",16000,Niche breadth,5.94375,Occurrence
+occurrence,"[12,20)",18000,Composition,5.483333333333333,Occurrence
+occurrence,"[12,20)",18000,Diversity,9.238888888888887,Occurrence
+occurrence,"[12,20)",18000,Niche breadth,5.949999999999999,Occurrence
+occurrence,"[20,Inf)",74000,Composition,5.155405405405405,Occurrence
+occurrence,"[20,Inf)",74000,Diversity,6.213513513513513,Occurrence
+occurrence,"[20,Inf)",74000,Niche breadth,5.07027027027027,Occurrence
